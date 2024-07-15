@@ -10,7 +10,6 @@ Before you begin, ensure you have the following installed on your machine:
 
 - [Docker](https://www.docker.com/get-started)
 - [Docker Compose](https://docs.docker.com/compose/install/)
-- [Node.js](https://nodejs.org/en/) (for local development)
 
 ## Project Structure
 
@@ -34,8 +33,8 @@ src/
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
-    cd project-root
+    git clone <https://github.com/Zaid-MAHSOUNE/Docker-Tuto>
+    cd Docker-Tuto
     ```
 
 2. **Build and run the Docker containers:**
