@@ -3,7 +3,7 @@
 ## Overview
 
 This project sets up an integrated development environment within a Docker container for developing a Node.js API for note taking that uses MongoDB and Express. The API allows CRUD operations on a MongoDB database , enabling efficient management of application data.
-This project is a step towards mastering docker in my journey of learning DevOps mechanism.
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your machine:
